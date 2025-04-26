@@ -1,0 +1,27 @@
+# Environment variables
+.env
+
+# Python virtual environment folders
+venv/
+.venv/
+env/
+ENV/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE / Editor specific files (optional but good practice)
+.idea/
+.vscode/
+
+# Build artifacts (if any)
+build/
+dist/
+*.egg-info/
+
+# OS specific files (optional)
+.DS_Store
+Thumbs.db
